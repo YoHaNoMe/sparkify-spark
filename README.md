@@ -24,7 +24,7 @@ Sparkify is a startup wants to analyze the songs they have been collecting and k
 ├── create_buckets.py
 └── tree.txt
 
-5 directories, 107 files
+5 directories, 108 files
 
 ```
 
