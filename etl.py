@@ -194,7 +194,7 @@ def main():
 
     # finally remove parquet files
     if config.get('settings', 'RM_PARQUET') == '1':
-        check_and_remove_parquet_files()
+        check_and_remove_parquet_files(output_data)
 
 
 if __name__ == '__main__':
