@@ -10,7 +10,6 @@ Sparkify is a startup wants to analyze the songs they have been collecting and k
 ├── assets
 │   └── images
 │       └── tables.svg
-├── create_tables.py
 ├── data
 │      ├── log_data (user log folder)
 │      │   ├── 2018-11-01-events.json
